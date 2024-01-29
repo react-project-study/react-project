@@ -15,7 +15,8 @@ Firebase를 활용한 로그인 구현
 
 ## DEMO
 
-https://github.com/leesiyun/nwitter-reloaded/assets/47590181/c6607075-4fcc-406b-990d-ec11e33d614f
+https://github.com/react-project-study/react-project/assets/47590181/d5542172-9150-49db-b253-e5d38536fd99
+
 
 ## 참고
 
